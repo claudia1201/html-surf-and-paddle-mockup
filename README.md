@@ -12,7 +12,7 @@ One of the basic, foundational skills in being a professional web developer is t
 
 After completing this assignment, you should...
 
-* Understand the properties and use of many *semantic* HTML tags
+* Understand the properties and use of many HTML tags
 * Understand and be able to leverage many different CSS properties to style content
 * Be comfortable with implementing layouts of HTML within CSS
 
@@ -20,7 +20,6 @@ After completing this assignment, you should...
 
 After completing this assignment, you should be able to effectively use:
 
-* Sectioning HTML tags other than `<div>` and `<span>`
 * The `position` property and it's values
 * The `display` property and it's values
 * Google Fonts and Normalize CSS
