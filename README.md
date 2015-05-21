@@ -30,7 +30,7 @@ After completing this assignment, you should be able to effectively use:
 
 All of the assets you need will be in the `assets/images` folder.
 
-Make sure you use the [Normalize CSS](http://necolas.github.io/normalize.css/) reset.
+Make sure you use a CSS reset, it'll help with positioning.
 
 We're going to use Google web fonts for this assignment. The header font is [Oswald](https://www.google.com/fonts#UsePlace:use/Collection:Oswald) and the font for the main content is [Open Sans](https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans).
 
